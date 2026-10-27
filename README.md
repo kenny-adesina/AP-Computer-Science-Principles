@@ -1,7 +1,7 @@
 # AP Computer Science Principles / Intro to Computer Science
 Study materials for your APCSP or College Intro to Computer Science course.
 
-Note: This course does <b>not</b> go over computer science theory, as there are a plethora of computer science theory courses that align with the Computer Science Principles or/and Intro to Computer Science courses. 
+Note: This course does <b>not</b> go over computer science theory, as there are a plethora of computer science theory courses/resources that align with the Computer Science Principles or/and Intro to Computer Science courses. 
 
 Here are some resourses you can use for the theoretical side of Computer Science:
 
@@ -38,6 +38,51 @@ None! Anyone can learn to code anywhere!
   <br><br>
   <li>Your smartphone!</li>
 </ul>
+
+# Day 1: Your first program
+
+<b>If you already are familiar with programming, you can skip this lesson.</b>
+
+Let's make our first program!
+
+<ol type = "1">
+   <li> Log in to your <a href = "https://code.org/">CodeAI account</a> </li>  
+   <li> Scroll down to projects and click "App Lab".</li>
+</ol>
+
+**Great Job!** You've already created your first program!
+
+Now, lets make it function. CodeAI's app lab uses a programming language known as Javascript to make things function. 
+
+<b>It is recommended that you switch to 'Text Mode' to best memorize what you're learning.</b>
+
+<ul>
+  <li>Click "Show Text" at the top right of your workspace. If it says "Show Blocks" you're already on Text mode.</li>
+</ul>
+
+Let's rename our project to "Hello World." 
+
+<ul>
+  <li>Click "Rename" in the top left of your screen.</li>
+  <li>Rename your project to "Hello World" and click enter.</li>
+</ul>
+
+In your first line type **console.log("Hello World!");**
+
+That's it! You've made your first program!
+
+Wait, wait, wait...
+
+Let's go over what this is actually doing.
+
+First of all let's run our code.
+
+<ul>
+  <li>Click "Run" at the bottom of the phone frame on the left-hand side of your screen.</li>
+</ul>
+
+You'll notice that at the bottom of your screen something called a "Debug Console" popped up with the words "Hello World" inside.
+
 
 
 
