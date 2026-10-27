@@ -1,6 +1,17 @@
 # AP Computer Science Principles / Intro to Computer Science
 Study materials for your APCSP or College Intro to Computer Science course.
 
+Note: This course does <b>not</b> go over computer science theory, as there are a plethora of computer science theory courses that align with the Computer Science Principles or/and Intro to Computer Science courses. 
+
+Here are some resourses you can use for the theoretical side of Computer Science:
+
+[Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)
+
+[APCS Exam Prep](https://www.apcsexamprep.com/)
+
+[Fiveable](https://fiveable.me/ap-comp-sci-p)
+
+
 For this course, we are going to be using CodeAI's JavaScript App Lab.
 Sign up for a CodeAI student account [here](https://studio.code.org/users/sign_up/login_type?user_type=student).
 
