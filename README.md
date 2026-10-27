@@ -20,7 +20,7 @@ None! Anyone can learn to code anywhere!
 
 <hr><hr>
 
-# What Computer Science?
+# What is Computer Science?
 
 <p>Computer Science is the study of computers and how they utilize information. Basically, how computers work.</p>
 
@@ -90,3 +90,10 @@ The console.log() function allows for us to print whatever we put inside the par
 Finally, you **must** add the semicolon (;) at the end of the line. This tells the program that it's done with that line and ready to move on to the next one. 
 
 Knowing where to put the semicolon is confusing at first, but as we program more it'll become much easier to understand.
+<ul>
+  <li>Today's Files: <a href = "Programming/Day 1/HelloWorld.js">HelloWorld.js</a></li>
+  <li>Today's Apps: <a href ="https://studio.code.org/projects/applab/8d841663-5705-4a66-8d03-c7940b565957">Hello World App</a></li>
+</ul>
+
+
+**Congrats! You've completed Day 1!**
