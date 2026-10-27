@@ -97,3 +97,18 @@ Knowing where to put the semicolon is confusing at first, but as we program more
 
 
 **Congrats! You've completed Day 1!**
+
+<h2>Day 1: Advanced Challenge</h2>
+
+Using CodeAI's App Lab, create a program that prints the following:
+```
+"Coding is fun!"
+
+"I like to code on App Lab!"
+
+"All my friends should code too!" 
+```
+
+***Solution***
+
+<a href = "Programming/Advanced Challenges/Day1.js">File</a> |  [App Lab](https://studio.code.org/projects/applab/3dd7027e-c311-4277-a5cb-780c6fa4b735)
