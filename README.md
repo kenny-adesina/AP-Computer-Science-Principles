@@ -39,7 +39,7 @@ None! Anyone can learn to code anywhere!
   <li>Your smartphone!</li>
 </ul>
 
-# Day 1: Your first program
+# Day 1: Your First Program
 
 <b>If you already are familiar with programming, you can skip this lesson.</b>
 
@@ -83,9 +83,10 @@ First of all let's run our code.
 
 You'll notice that at the bottom of your screen something called a "Debug Console" popped up with the words "Hello World" inside.
 
+Our "Debug Console" is where things will <i>print</i> or be written when you use the "console.log()" function.
 
+The console.log() function allows for us to print whatever we put inside the parenthesis (which is called an *argument*.)
 
+Finally, you **must** add the semicolon (;) at the end of the line. This tells the program that it's done with that line and ready to move on to the next one. 
 
-
-
-
+Knowing where to put the semicolon is confusing at first, but as we program more it'll become much easier to understand.
